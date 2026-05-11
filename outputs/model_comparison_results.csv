@@ -1,0 +1,5 @@
+"Model","Accuracy"
+"Decision Tree",0.847524440239672
+"Multinomial Logistic Regression",0.846670345842531
+"KNN (best K)",0.838221381267739
+"KNN (k=5)",0.830100914538001
