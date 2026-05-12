@@ -16,6 +16,15 @@ Thumbs.db
 .superpowers/
 .pytest_cache/
 
+# Internal AI-orchestration scaffolding — agent instructions, prompts,
+# milestone-process artifacts.  Private working documents not intended
+# for a public audience.
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+bundle/14_Claude_Project_Bundle_Manifest.md
+framework/08_Claude_Readiness_and_Activation_Protocol.md
+
 # Editor
 .vscode/
 .idea/
